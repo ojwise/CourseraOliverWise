@@ -1,6 +1,4 @@
-CourseraOliverWise
-==================
-@@ -1,13 +0,0 @@
+
 The R script, "run_analysis.R" included in this repo reads and manipulates the "Human Activity
  Recognition Using Smartphones Dataset" available at this 
 link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
